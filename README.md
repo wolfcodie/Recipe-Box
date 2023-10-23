@@ -1,12 +1,9 @@
 # Recipe Box
 ## design 
+![heroPage](https://github.com/wolfcodie/Recipe-Box/assets/147501863/f42c9125-4358-43f2-9447-94485fa3a933)
 
 Recipe Box is a web application that allows users to discover, save, and share their favorite recipes. Whether you're a cooking enthusiast or a beginner in the kitchen, Recipe Box has you covered.
-![Uploading heroPage.png…]()
 
-![Uploading my reacipes.png…]()
-![Uploading reacip.png…]()
-![Uploading recipes.png…]()
 
 
 ## Features
